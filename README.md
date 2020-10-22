@@ -6,3 +6,5 @@ Beside programming, I like to:
 - Rockin' the guitar :notes:
 - Skateboarding :snowboarder:
 - Hiking mountains! :mount_fuji:
+
+You can find me on LinkedIn: https://www.linkedin.com/in/brian-mohammed-catraguna-160ab833/
