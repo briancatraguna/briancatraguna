@@ -1,10 +1,7 @@
-# Hello, World! :smiley:
-My name is Brian Mohammed Catraguna. I am 21 years old. I am a 4th year Aerospace Engineering student and I love to solve coding problems. I recently just got into the machine learning world and have been interested ever since. I code in Python, C++, and MATLAB.
+# Brian's Coding Projects
 
-Beside programming, I like to:
-- Travel! :airplane:
-- Rockin' the guitar :notes:
-- Skateboarding :snowboarder:
-- Hiking mountains! :mount_fuji:
+### Gihub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=briancatraguna&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
-You can find me on LinkedIn: https://www.linkedin.com/in/brian-mohammed-catraguna-160ab833/
+### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancatraguna&amp;layout=compact" alt="Top Languages"></p>
