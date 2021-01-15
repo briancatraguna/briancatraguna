@@ -1,5 +1,7 @@
 # Brian's Coding Projects
 
+Hi everyone, here you'll find some projects that I've done for academic work or my personal projects. Feel free to explore them! It's always great to have more eyes on it and I would love if you have any feedback or suggestions!
+
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=briancatraguna&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
