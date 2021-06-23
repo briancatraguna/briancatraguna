@@ -7,10 +7,10 @@ My name is Brian Mohammed Catraguna. I'm an Aerospace engineering student lookin
 * 🚧 I'm open to any projects! Feel free to contact me through these platforms:
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/brian-mohammed-catraguna/">
+<a href="https://www.linkedin.com/in/brian-mohammed-catraguna-160ab833/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="briancatraguna@gmail.com">
+<a href="mailto:briancatraguna@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
