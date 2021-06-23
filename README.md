@@ -1,13 +1,33 @@
-# Brian's Coding Projects
+# What's up?
 
-Hi everyone, here you'll find some projects that I've done for academic work or my personal projects. Feel free to explore them! It's always great to have more eyes on it and I would really appreciate a feedback or two!
+My name is Brian Mohammed Catraguna. I'm an Aerospace engineering student looking for roles in the tech industry! Specifically I love android development! I am also currently preparing and pursuing Google's [Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer)! Wish me luck! :smile:
 
-You can find me on:
-<br><img src="https://user-images.githubusercontent.com/32363208/111023022-20839b00-8409-11eb-95d5-9867e90178bf.png" width="20">[LinkedIn](https://www.linkedin.com/in/brian-mohammed-catraguna-160ab833/)
-<br><img src="https://user-images.githubusercontent.com/32363208/111023064-63de0980-8409-11eb-9219-3d5ed4bf9594.jpg" width="17">[Instagram](https://www.instagram.com/briancatraguna/?hl=en)
+* 🎓 Hopefully I'll graduate on October 2021!
+* 📖 Currently learning Clean Architecture🏛️ and Dependency Injection💉 using [Dagger](https://github.com/google/dagger)🗡️
+* 🚧 I'm open to any projects! Feel free to contact me through these platforms:
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/brian-mohammed-catraguna/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="briancatraguna@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
+
+I mostly code using Kotlin and have experience using these technologies:
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=briancatraguna&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancatraguna&amp;layout=compact" alt="Top Languages"></p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=briancatraguna)
