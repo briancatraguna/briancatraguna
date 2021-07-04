@@ -16,7 +16,7 @@ My name is Brian Mohammed Catraguna. I'm a final year ✈️ Aerospace engineeri
 </p>
 
 
-I mostly code using Kotlin and have experience using these technologies:
+## Tools and Technologies:
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -24,13 +24,11 @@ I mostly code using Kotlin and have experience using these technologies:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-Besides android development I also have experience in Python with these frameworks:
-
-
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 <code><img height="40" src="https://class.growthladder.co.in/wp-content/uploads/tk_logo.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png"></code>
+
 
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=briancatraguna&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
