@@ -1,6 +1,6 @@
 # What's up?
 
-My name is Brian Mohammed Catraguna. I'm a recent ✈️ Aerospace engineering graduate! Currently working in @GudangAda as an Android Engineer. I love to make personal projects in my spare time and learn more about other technologies such as machine learning and frontend engineering!
+My name is Brian Mohammed Catraguna. I'm a recent ✈️ Aerospace engineering graduate! Currently working in [GudangAda](https://gudangada.com/en) as an Android Engineer. I love to make personal projects in my spare time and learn more about other technologies such as machine learning and frontend engineering!
 
 * 📖 Learning Clean Architecture🏛️ and Dependency Injection💉 using [Dagger](https://github.com/google/dagger)🗡️
 * 📗 I have experience in 🎨Front-End Web Technologies as well by joining Generasi-Gigih with [YABB](https://www.anakbangsabisa.org/) and [Gojek](https://www.gojek.io/)! 
