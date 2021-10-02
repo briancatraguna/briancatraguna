@@ -1,10 +1,9 @@
 # What's up?
 
-My name is Brian Mohammed Catraguna. I'm a recent ✈️ Aerospace engineering graduate! Specifically I love android development! I am currently preparing and pursuing Google's [Associate Android Developer Certification](https://developers.google.com/certification/associate-android-developer)! Wish me luck! :smile:
+My name is Brian Mohammed Catraguna. I'm a recent ✈️ Aerospace engineering graduate! Currently working in @GudangAda as an Android Engineer. I love to make personal projects in my spare time and learn more about other technologies such as machine learning and frontend engineering!
 
-* 🎓 Graduating on October 2021!
-* 📖 Currently learning Clean Architecture🏛️ and Dependency Injection💉 using [Dagger](https://github.com/google/dagger)🗡️
-* 📗 Also learning 🎨Front-End Web Technologies on the side in Generasi-Gigih with [YABB](https://www.anakbangsabisa.org/) and [Gojek](https://www.gojek.io/)! 
+* 📖 Learning Clean Architecture🏛️ and Dependency Injection💉 using [Dagger](https://github.com/google/dagger)🗡️
+* 📗 I have experience in 🎨Front-End Web Technologies as well by joining Generasi-Gigih with [YABB](https://www.anakbangsabisa.org/) and [Gojek](https://www.gojek.io/)! 
 * 🚧 I'm open to any projects! Feel free to contact me through these platforms:
 
 <p align='center'>
