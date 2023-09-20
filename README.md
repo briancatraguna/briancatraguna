@@ -1,20 +1,21 @@
-# What's up?
+# Welcome to my GitHub profile!
 
-My name is Brian Mohammed Catraguna. I'm a recent ✈️ Aerospace engineering graduate! Currently working in [GudangAda](https://gudangada.com/en) as an Android Engineer. I love to make personal projects and learn more deeply about android technology in my spare time and learn more about other technologies such as machine learning and frontend engineering! Feel free to discuss about technology or anything with me through these platforms:
+## Summary
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/brian-mohammed-catraguna-160ab833/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:briancatraguna@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
+Passionate Android Software Engineer with a Master's degree in Computer Engineering from New York University and a strong background in mobile app development. Proven track record of delivering innovative Android applications that elevate user experiences. Google Certified Associate Android Developer with expertise in Kotlin, Java, and a range of Android technologies. 
 
-### Gihub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=briancatraguna&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+🌟 **Highlights**:
 
-### Top Languages
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancatraguna&amp;layout=compact" alt="Top Languages"></p>
+- 📱 Android App Development: Expertise in building elegant and high-performance Android applications.
+- 💼 Professional Experience: Worked as a Software Engineer (Android) at [GameChanger](https://play.google.com/store/apps/details?id=com.gc.teammanager&hl=en_US&gl=US) and [GudangAda](https://play.google.com/store/apps/details?id=com.gudangada.gudangada&hl=en_US&gl=US), contributing to significant increases in user engagement and product success.
+- 🚀 Project Portfolio: Developed and led projects, including [Recipe App](https://play.google.com/store/apps/details?id=com.briancatraguna.recipeapp) showcasing technical proficiency and creative problem-solving.
+- 🛠️ Skills: Proficient in Kotlin, Java, Jetpack Compose, Flow, Kotlin Coroutines, and a wide array of Android libraries and tools.
 
-![](https://visitor-badge.glitch.me/badge?page_id=briancatraguna)
+## Contact Information
+
+📧 Email: [briancatraguna@gmail.com]
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/brian-catraguna/)
+
+Feel free to reach out for collaboration, job opportunities, or to discuss Android app development!
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancatraguna&show_icons=true&theme=dark)](https://github.com/briancatraguna)
